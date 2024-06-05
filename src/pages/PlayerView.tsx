@@ -1,4 +1,4 @@
-import { RunOutput } from "@movie-web/providers";
+import { RunOutput } from "@m.npm/mw-sproviders";
 import { useCallback, useEffect, useState } from "react";
 import {
   Navigate,

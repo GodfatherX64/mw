@@ -1,4 +1,4 @@
-import { Fetcher, makeSimpleProxyFetcher } from "@movie-web/providers";
+import { Fetcher, makeSimpleProxyFetcher } from "@m.npm/mw-sproviders";
 
 import { sendExtensionRequest } from "@/backend/extension/messaging";
 import { getApiToken, setApiToken } from "@/backend/helpers/providerApi";

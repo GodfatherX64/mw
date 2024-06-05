@@ -1,4 +1,4 @@
-import { ScrapeMedia } from "@movie-web/providers";
+import { ScrapeMedia } from "@m.npm/mw-sproviders";
 
 import { MakeSlice } from "@/stores/player/slices/types";
 import {
